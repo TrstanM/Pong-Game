@@ -1,3 +1,4 @@
+#Author: Tristan Miller 
 import turtle as t
 playerAscore = 0
 playerBscore = 0
